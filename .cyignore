@@ -1,0 +1,3 @@
+$(SEARCH_btstack)
+$(SEARCH_bluetooth-freertos)
+$(SEARCH_http-client)
